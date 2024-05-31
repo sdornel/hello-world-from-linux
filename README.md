@@ -1,5 +1,6 @@
 # hello-world-from-linux
 hello world!
-hi kai
-do i always need to run sudo?
-i am a sudoer in the system i created for myself!
+
+i made myself a sudoer in my own system last night.
+
+this app is just to get used to linux
